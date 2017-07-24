@@ -1,0 +1,13 @@
+Биньямин Нетаньяху, Владимир Путин, pos, current
+Владимир Путин, Биньямин Нетаньяху, pos, current
+author, Путин, neg, current
+author, Россия, neg, current
+author, США, pos, current
+author, Иран, neg, current
+author, Израиль, pos, current
+Россия, Иран, pos, current
+Россия, Сирия, pos, current
+Россия, Израиль, pos, current
+Израиль, Россия, pos, current
+Шамир, Хусейн, pos, current
+Хусейн, Шамир, pos, current

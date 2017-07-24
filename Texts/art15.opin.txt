@@ -1,0 +1,6 @@
+Россия, Турция, neg, current
+Турция, Россия, neg, current
+Россия, Турция, pos, past
+Турция, Россия, pos, past
+Путин, Турция, neg, current
+Брюссель, Эрдоган, neg, current

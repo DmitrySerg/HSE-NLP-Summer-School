@@ -1,0 +1,48 @@
+Сорос, Россия, neg, current
+Снеговая, Путин, neg, current
+Снеговая, Асад, neg, current
+Путин, Сергей Иванов, pos, current
+Путин, Николай Патрушев, pos, current
+Путин, Михаил Фрадков, pos, current
+Путин, Александр Бортников, pos, current
+Путин, Ротенберг, pos, current
+Путин, Ковальчук, pos, current
+Путин, Тимченко, pos, current
+Путин, Шмалов, pos, current
+Сергей Иванов, Путин, pos, current
+Николай Патрушев, Путин, pos, current
+Михаил Фрадков, Путин, pos, current
+Ротенберг, Путин, pos, current
+Ковальчук, Путин, pos, current
+Тимченко, Путин, pos, current
+Шмалов, Путин, pos, current
+Александр Бортников, Путин, pos, current
+Путин, Гусинский, neg, current
+Путин, Ходорковский, neg, current
+Путин, Собянин, pos, past
+Ельцин, Муртаза Рахимов, pos, past
+Путин, Муртаза Рахимов, neg, current
+ИГ, Кадыров, neg, current
+Кадыров, ИГ, neg, current
+Омар аль-Шишани, Кадыров, neg, current
+Кадыров, Путин, pos, current
+Сергей Иванов, Запад, neg, past
+Николай Патрушев, США, neg, current
+Путин, США, neg, current
+Мадлен Олбрайт, neg, past
+author, Путин, neg, current
+author, Мария Снеговая, pos, current
+Мария Снеговая, Путин, neg, current
+Мария Снеговая, Асад, neg, current
+author, Янукович, neg, current
+author, Украина, neg, past
+Путин, Евтушенков, neg, current
+Чечня, Кадыров, neg, current
+Омар аль-Шишани, Кадыров, neg, current
+author, Николай Патрушев, neg, current
+Путин, Дмитрий Каменщик, neg, current
+Сергей Иванов, Англия, neg, current
+Сергей Иванов, Запад, neg, current
+Патрушев, НАТО, neg, current
+
+

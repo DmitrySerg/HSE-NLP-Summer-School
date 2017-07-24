@@ -1,0 +1,14 @@
+Евросоюз, Белоруссия, neg, past
+Евросоюз, Россия, neg, current
+Железнова, Лукашенко, pos, current
+Белоруссия, Россия, pos, current
+Россия, Белоруссия, pos, current
+Лукашенко, Европа, pos, current
+Россия, Евросоюз, neg, current
+Скурко, Лукашенко, pos, current
+author, Лукашенко, neg, current
+Евросоюз, Лукашенко, neg, past
+Евросоюз, Лукашенко, neg, current
+Евросоюз, Белоруссия, pos, current
+
+

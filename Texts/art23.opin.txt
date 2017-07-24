@@ -1,0 +1,15 @@
+Запад, Бразилия, pos, current
+Запад, Индия, pos, current
+Запад, Китай, pos, current
+Россия, Грузия, neg, past
+Россия, Украина, neg, current
+Россия, НАТО, neg, current
+ООН, Россия, neg, current
+author, Россия, neg, current
+author, Ельцин,neg, current
+author, Путин,neg, current
+author, Москва,neg, current
+author, Игорь Лебедев,neg, current
+Россия, НАТО, neg, current
+
+

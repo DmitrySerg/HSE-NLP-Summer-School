@@ -1,0 +1,14 @@
+Сирия, Россия, pos, current
+США, Асад, neg, past
+Москва, Израиль, pos, current
+Израиль, Россия, pos, current
+Сирия, Израиль, neg, past
+Израиль, Сирия, neg, past
+Иран, Россия, pos, current
+Россия, Иран, pos, current
+Россия, Израиль, pos, current
+Россия, Асад, pos, current
+Author, Хафез Асад, neg, current
+Author, Башар Асад, neg, current
+Author, Израиль, pos, current
+Иран, Башар Асад, pos, current

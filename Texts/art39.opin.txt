@@ -1,0 +1,11 @@
+НАТО, Россия, neg, current
+Россия, НАТО, neg, current
+Россия, Турция, neg, current
+Турция, Россия, neg, current
+Грушко, Украина, neg, current
+НАТО, Москва, neg, current
+Москва, Украина, neg, current
+Грушко, Киев, neg, current
+НАТО, Москва, neg, current
+Столтенберг, Россия, neg, current
+

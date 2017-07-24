@@ -1,0 +1,6 @@
+Лиухто, Путин, neg, current
+Россия, Евросоюз, neg, past
+Россия, Евросоюз, neg, current
+Евросоюз, Россия, neg, past
+Евросоюз, Россия, neg, current
+Лиухто, Россия, neg, current
