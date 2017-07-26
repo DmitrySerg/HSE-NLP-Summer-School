@@ -782,7 +782,7 @@
 благотворный, Adj, благотворный, positive, opinion
 благоустроенность, Noun, благоустроенность, positive, opinion
 благоустроенный, Adj, благоустроенный, positive, opinion
-благоустроить, Verb, благоустроить, postitive, opinion
+благоустроить, Verb, благоустроить, positive, opinion
 благоустройство, Noun, благоустройство, positive, fact, "БЛАГОУСТРОЙСТВО ТЕРРИТОРИИ"
 благоустройство, Noun, благоустройство, positive, opinion, "БЛАГОУСТРОЕННЫЙ"
 благоухание, Noun, благоухание, positive, feeling
@@ -11969,7 +11969,7 @@
 разбазаривание, Noun, разбазаривание, negative, fact 
 разбазаривать, Verb, разбазаривать, negative, fact
 разбазарить, Verb, разбазарить, negative, fact
-разбаливаться, Verb, разбаливаться, negative, feeeling
+разбаливаться, Verb, разбаливаться, negative, feeling
 разбаловать, Verb, разбаловать, negative, opinion
 разбой, Noun, разбой, negative, fact 
 разбойник, Noun, разбойник, negative, fact 
@@ -15305,7 +15305,7 @@
 фешенебельный, Adj, фешенебельный, positive, opinion
 фея, Noun, фея, positive, opinion
 фиаско, Noun, фиаско, negative, opinion
-фигня, Noun, фигня/фигна, negative, opinon
+фигня, Noun, фигня/фигна, negative, opinion
 фигов, Adj, фигов, negative, opinion
 фиговый, Adj, фиговый, negative, opinion, "ОТВРАТИТЕЛЬНЫЙ (ОЧЕНЬ ПЛОХОЙ)"
 фиговый, Adj, фиговый, neutral, fact, "ИНЖИР (ПЛОД)"
