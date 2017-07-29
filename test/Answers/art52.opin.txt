@@ -1,0 +1,2 @@
+mastercard,россия neg
+visa,россия neg

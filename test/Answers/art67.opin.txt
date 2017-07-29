@@ -1,0 +1,4 @@
+author,восман neg
+author,нато neg
+нато,восман neg
+путин,нато neg

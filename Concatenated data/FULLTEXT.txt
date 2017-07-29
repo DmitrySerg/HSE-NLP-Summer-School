@@ -1,0 +1,853 @@
+=============================
+=============================
+=============================
+=============================
+=============================
+=============================
+США, ИГИЛ, neg, current
+Сирия, США, neg, current
+Россия, США, neg, current
+Россия, ИГИЛ, neg, current
+Китай, США, neg, current
+НАТО, Россия, neg, current
+Россия, Финляндия, pos, current
+Штайнмайер, Трамп, neg, current
+США, Северная Корея, neg, current
+Россия, НАТО, neg, current
+Иран, США, neg, current
+Иран, Сирия, pos, current
+Сирия, Иран, pos, current
+Али Хаменеи, США, neg, current
+Али Хаменеи, Россия, pos, current
+Россия, Сирия, pos, current
+Обама, Сирия, neg, current
+Алирез Резахах, США, neg, current
+Алирез Резахах, Россия, pos, current
+Алирез Резахах, Сирия, pos, current
+Алирез Резахах, ИГИЛ, neg, current
+
+
+=============================
+=============================
+=============================
+Сирия, Россия, pos, current
+США, Асад, neg, past
+Москва, Израиль, pos, current
+Израиль, Россия, pos, current
+Сирия, Израиль, neg, past
+Израиль, Сирия, neg, past
+Иран, Россия, pos, current
+Россия, Иран, pos, current
+Россия, Израиль, pos, current
+Россия, Асад, pos, current
+Author, Хафез Асад, neg, current
+Author, Башар Асад, neg, current
+Author, Израиль, pos, current
+Иран, Башар Асад, pos, current
+=============================
+=============================
+=============================
+Евросоюз, Белоруссия, neg, past
+Евросоюз, Россия, neg, current
+Железнова, Лукашенко, pos, current
+Белоруссия, Россия, pos, current
+Россия, Белоруссия, pos, current
+Лукашенко, Европа, pos, current
+Россия, Евросоюз, neg, current
+Скурко, Лукашенко, pos, current
+author, Лукашенко, neg, current
+Евросоюз, Лукашенко, neg, past
+Евросоюз, Лукашенко, neg, current
+Евросоюз, Белоруссия, pos, current
+
+
+=============================
+=============================
+=============================
+Израиль, Россия, pos, current
+Саудовская Аравия, Россия, pos, current
+Египет, Россия, pos, current
+Обама, Путин, neg, current
+Израиль, США, neg, current
+Саудовская Аравия, США, neg, current
+Египет, США, neg, current
+author, Россия, pos, current
+author, Обама, neg, current
+author, Путин, neg, current
+Путин, Асад, pos, current
+Саудовская Аравия, Иран, neg, current
+Иран, Сирия, pos, current
+Обама, Асад, neg, current
+Государства Персидского Залива, Иран, neg, current
+Саудовская Аравия, Йемен, neg, current
+Йемен, Саудовская Аравия, neg, current
+США, Иран, neg, current
+Обама, Иран, neg, current
+author, Иран, neg, current
+Обама, ИГИЛ, neg, current
+США, ИГИЛ, neg, current
+author, Асад, neg, current
+
+=============================
+=============================
+=============================
+Беларусь, Россия, pos, current
+Россия, Беларусь, pos, current
+США, Беларусь, neg, past
+Евросоюз, Беларусь, neg, past
+Беларусь, США, pos, current
+Беларусь, Евросоюз, pos, current
+Россия, Беларусь, neg, current
+Якобашвили, Россия, neg, current
+Вольфганг Зендер, Беларусь, pos, current
+Андрей Казакевич, Беларусь, pos, current
+НАТО, Россия, neg, current
+Якобашвили, Запад, pos, current
+Валентин Рыбаков, Беларусь, pos, current
+=============================
+=============================
+=============================
+Путин, НАТО, neg, current
+Путин, США, neg, current
+Эстония, Россия, neg, current
+Андрес Восман, Россия, neg, current
+Свен Миксер, Путин, neg, current
+
+=============================
+=============================
+=============================
+Лиухто, Путин, neg, current
+Россия, Евросоюз, neg, past
+Россия, Евросоюз, neg, current
+Евросоюз, Россия, neg, past
+Евросоюз, Россия, neg, current
+Лиухто, Россия, neg, current
+=============================
+=============================
+=============================
+Путин, ЕС, neg, current
+Путин, Европа, neg, current
+Украина, Путин, neg, current
+Путин, Украина, neg, current
+Европа, Россия, neg, current
+Украина, Россия, neg, current
+Россия, Украина, neg, current
+Климкин, Россия, neg, current
+Климкин, Украина, pos, current
+Климкин, Путин, neg, current
+Климкин, ЕС, pos, current
+Климкин, Донбасс, neg, current=============================
+=============================
+=============================
+=============================
+=============================
+=============================
+Россия, Австралия, neg, current
+Австралия, Россия, neg, current
+Обама, ИГ, neg, current
+Запад, Россия, neg, current
+Россия, Запад, neg, current
+Россия, Сирия, neg, current
+Франция, Россия, pos, current
+author, Россия, neg, current
+Обама, Асад, neg, current
+author, Обама, neg, current
+author, Путин, neg, current
+author, Асад, neg, current
+Россия, Украина, neg, current
+Украина, Россия, neg, current
+Христо Грозев, Россия, neg, current
+Герхард Гнаук, Россия, neg, current
+Вильям Тейлор, Россия, neg, current
+Вильям Тейлор, ИГИЛ, neg, current
+Владимир Огрызко, Россия, neg, current
+Татьяна Кастуева-Жан, Россия, neg, current
+Франция, Асад, neg, past
+Франция, ИГИЛ, neg, current
+
+=============================
+=============================
+=============================
+Россия, Запад, neg, past
+Запад, Россия, neg, past
+Россия, НАТО, neg, past
+НАТО, Россия, neg, past
+Германия, Россия, neg, past
+Италия, Россия, neg, past
+Франция, Россия, neg, past
+Россия, Запад, pos, current
+Запад, Россия, pos, current
+Россия, Украина, neg, past
+автор, Россия, pos, current
+Россия, ИГИЛ, neg, current
+Запад, ИГИЛ, neg, current
+Польша, Россия, neg, past
+страны Балтии, Россия, neg, past
+=============================
+=============================
+=============================
+Россия, Европейский союз, neg, past
+Европейский союз, Россия, neg, past
+Россия, Европейский союз, pos, current
+Путин, Кудрин, pos, current
+author, Россия, neg, current
+author, Кудрин, neg, current
+author, Путин, neg, current
+author, ИГИЛ, neg, current=============================
+=============================
+=============================
+Путин, Асад, pos, current
+Бернер, Путин, neg, current
+Европа, Россия, neg, current
+Россия, Европа, neg, current=============================
+=============================
+=============================
+Сорос, Россия, neg, current
+Снеговая, Путин, neg, current
+Снеговая, Асад, neg, current
+Путин, Сергей Иванов, pos, current
+Путин, Николай Патрушев, pos, current
+Путин, Михаил Фрадков, pos, current
+Путин, Александр Бортников, pos, current
+Путин, Ротенберг, pos, current
+Путин, Ковальчук, pos, current
+Путин, Тимченко, pos, current
+Путин, Шмалов, pos, current
+Сергей Иванов, Путин, pos, current
+Николай Патрушев, Путин, pos, current
+Михаил Фрадков, Путин, pos, current
+Ротенберг, Путин, pos, current
+Ковальчук, Путин, pos, current
+Тимченко, Путин, pos, current
+Шмалов, Путин, pos, current
+Александр Бортников, Путин, pos, current
+Путин, Гусинский, neg, current
+Путин, Ходорковский, neg, current
+Путин, Собянин, pos, past
+Ельцин, Муртаза Рахимов, pos, past
+Путин, Муртаза Рахимов, neg, current
+ИГ, Кадыров, neg, current
+Кадыров, ИГ, neg, current
+Омар аль-Шишани, Кадыров, neg, current
+Кадыров, Путин, pos, current
+Сергей Иванов, Запад, neg, past
+Николай Патрушев, США, neg, current
+Путин, США, neg, current
+Мадлен Олбрайт, neg, past
+author, Путин, neg, current
+author, Мария Снеговая, pos, current
+Мария Снеговая, Путин, neg, current
+Мария Снеговая, Асад, neg, current
+author, Янукович, neg, current
+author, Украина, neg, past
+Путин, Евтушенков, neg, current
+Чечня, Кадыров, neg, current
+Омар аль-Шишани, Кадыров, neg, current
+author, Николай Патрушев, neg, current
+Путин, Дмитрий Каменщик, neg, current
+Сергей Иванов, Англия, neg, current
+Сергей Иванов, Запад, neg, current
+Патрушев, НАТО, neg, current
+
+
+=============================
+=============================
+=============================
+Россия, Турция, neg, current
+Турция, Россия, neg, current
+Россия, Турция, pos, past
+Турция, Россия, pos, past
+Путин, Турция, neg, current
+Брюссель, Эрдоган, neg, current=============================
+=============================
+=============================
+Яровая, Володин, pos, current
+Володин, Путин, pos, current
+Россия, ИГИЛ, neg, current
+Таня Локшинаm, Россия, neg, current=============================
+=============================
+=============================
+ЕС, Россия, neg, current
+Россия, Украина, neg, current
+Натали Нугеред, Москва, neg, current
+Великобритания, НАТО, pos, current
+НАТО, Великобритания, pos, current
+Европа, США, neg, current
+Ричард Морнингстар, Великобритания, pos, current
+США, Великобритания, pos, current
+Великобритания, США, pos, current
+Обама, Дэвид Кэмерон, pos, current
+Натали Нугеред, США, pos, current
+Нугеред, ЕС, neg, current=============================
+=============================
+=============================
+Россия, Украина, neg, current
+Россия, Европа, neg, current
+Европа, Россия, neg, current
+Россия, ИГИЛ, neg, current
+author, Медведев, pos, current
+author, Путин, pos, current
+author, Россия, pos, current=============================
+=============================
+=============================
+Штайнмайер, Россия, pos, current
+Зоммер, Путин, pos, current
+author, Путин, neg, current
+author, Зоммер, neg, current
+author, Штайнмайер, neg, current
+Ангела Меркель, Россия, neg, current
+Зоммер, Россия, pos, current
+=============================
+=============================
+=============================
+Латвия, Россия, pos, current
+Россия, Украина, neg, current
+author, Россия, neg, current=============================
+=============================
+=============================
+США, Китай, neg, current
+США, Россия, neg, current
+Вашигтон, Китай, neg, current
+Вашингтон, Россия, neg, current
+Китай, США, neg, current
+Россия, США, neg, current
+Россия, НАТО, neg, current
+Россия, ЕС, neg, current
+Россия, ООН, pos, current
+Томас Грэм, Россия, neg, current
+Томас Грэм, Москва, neg, current
+Томас Грэм, Путин, neg, current
+США, Москва, neg, current
+Соединенные Штаты, Москва, neg, current
+Европейский Союз, НАТО, pos, past
+НАТО,Европейский Союз, pos, past
+Вашингтон, Путин, neg, present
+Путин, США, neg, present
+Путин, НАТО, neg, present
+Путин, ЕС, neg, present
+Россия, Запад, neg, present=============================
+=============================
+=============================
+Швеция, Путин, neg, current
+Финляндия, Швеция, pos, current
+Швеция, Финляндия, pos, current
+Финляндия, Путин, pos, current
+Швеция, Россия, pos, past
+Швеция, США, pos, current
+США, Швеция, pos, current
+Швеция, Британия, pos, current
+Британия, Швеция, pos, current=============================
+=============================
+=============================
+Запад, Бразилия, pos, current
+Запад, Индия, pos, current
+Запад, Китай, pos, current
+Россия, Грузия, neg, past
+Россия, Украина, neg, current
+Россия, НАТО, neg, current
+ООН, Россия, neg, current
+author, Россия, neg, current
+author, Ельцин,neg, current
+author, Путин,neg, current
+author, Москва,neg, current
+author, Игорь Лебедев,neg, current
+Россия, НАТО, neg, current
+
+
+=============================
+=============================
+=============================
+США, Россия, neg, current
+Евросоюз, Россия, neg, current
+G8, Россия, neg, current 
+Советский Союз, Афганистан, neg, past
+Запад, Советский Союз, neg, past
+Коэ, Россия, neg, current
+IAAF, Россия, neg, current
+Путин, IAAF, neg, current
+Штайнмайер, НАТО, neg, current
+Штайнмайер, Россия, pos, current
+author,Советский Союз, pos, current
+Запад, Россия, neg, current
+Путин, Запад, neg, current
+Путин, НАТО, neg, current
+Россия, Путин, pos, current
+Запад, Москва, neg, current
+=============================
+=============================
+=============================
+Россия, Европейский Союз, neg, current
+Кремль, Европейский Союз, neg, current
+Путин, ЕС, neg, current
+Россия, НАТО, neg, current
+Италия, Россия, pos, current
+Греция, Россия, pos, current
+Венгрия, Россия, pos, current
+Германия, Россия, pos, current
+Кремль, Альтернатива для Германии, pos, current
+Кремль, Национальный фронт, pos, current
+Путин, Европа, neg, current
+Путин, НАТО, neg, current
+ЕС, Россия, neg, current
+Великобритания, Россия,neg, current
+Великобритания, Украина,pos, current
+Великобритания, ЕС,neg, current
+Москва, Европа, neg, current
+Польша,Великобритания, pos, current
+Польша,Европа, pos, current=============================
+=============================
+=============================
+=============================
+=============================
+=============================
+﻿Европа, Путин, neg, current
+Великобритания, Евросоюз, neg, current
+Великобритания, Россия, neg, current
+Россия, ЕС, neg, current
+Сергей Лавров, Хаммонд, neg, current
+Мария Захарова, Великобритания, neg, current
+Великобритания, Россия, neg, current
+Путин, США, neg, current
+Захарова, Евросоюз, neg, current
+ЕС, США, neg, current
+США, ЕС, neg, current
+Великобритания, США, pos, current
+Украина, Россия, neg, current
+Хаммонд, Россия, neg, current
+Хаммонд, Путин, neg, current
+Путин, СССР, pos, current
+Путин, Варшавский договор, pos, current
+Путин, Хаммонд, neg, current
+Меркель, Россия, neg, current
+Путин, Габриэль, pos, current
+Титов, США, neg, current
+Захарова, Евросоюз, neg, current
+Россия, США, neg, current
+Евросоюз, США, pos, current
+Польша, США, pos, current
+Германия, США, pos, current
+Балтия, США, pos, current
+Украина, ЕС, pos, current
+Грузия, ЕС, pos, current=============================
+=============================
+=============================
+Путин, Шойгу, pos, current
+Шойгу, Путин, pos, current
+Запад, Россия, neg, current
+Путин, Кони, pos, current
+Россия, Украина, neg, current
+author, Путин, pos, current
+=============================
+=============================
+=============================
+Биньямин Нетаньяху, Владимир Путин, pos, current
+Владимир Путин, Биньямин Нетаньяху, pos, current
+author, Путин, neg, current
+author, Россия, neg, current
+author, США, pos, current
+author, Иран, neg, current
+author, Израиль, pos, current
+Россия, Иран, pos, current
+Россия, Сирия, pos, current
+Россия, Израиль, pos, current
+Израиль, Россия, pos, current
+Шамир, Хусейн, pos, current
+Хусейн, Шамир, pos, current=============================
+=============================
+=============================
+Израиль, Сирия, neg, current
+Нетаньяху, Сирия, neg, current
+Израиль, Голанские высоты, pos, current
+Нетаньяху, Голанские высоты, pos, current
+Нетаньяху, Путин, pos, current
+Израиль, Москва, pos, current
+Сирия, Израиль, neg, current
+Израиль, Москва, pos, current
+author, Израиль, neg, current
+=============================
+=============================
+=============================
+Обама, Европа, pos, current
+Путин, Европа, neg, current
+Путин, НАТО, neg, current
+Обама, Путин, neg, current
+Путин, EC, neg, current
+=============================
+=============================
+=============================
+Кристиан Йенсен, Евросоюз, pos, current
+Кристиан Йенсен, ЕС, pos, current
+Кристиан Йенсен, Великобритания, pos, current
+Кристиан Йенсен, Британия, pos, current
+Кристиан Йенсен, Путин, pos, current
+Кристиан Йенсен, Россия, pos, current
+Дания, Евросоюз, pos, current
+Дания, Великобритания, pos, current
+Великобритания, Дания, pos, current
+ЕС, Турция, pos, current
+Турция, ЕС, pos, current
+Дания, Британия, pos, current
+Датская народная партия, Европол, pos, current
+Датская народная партия, Евроюст, pos, current
+Датская народная партия, ЕС, neg, past
+Кристиан Йенсен, Россия, neg, current
+Кристиан Йенсен, Владимир Путин, neg, current
+Путин, Европа, neg, current
+Путин, Национальный фронт, pos, current
+Путин, Марин Ле Пен, pos, current
+Путин, Брюссель, neg, current
+Ле Пен, Брюссель, neg, current
+Россия, Европа, neg, current
+Национальный фронт, ЕС, neg, current
+Партия независимости Соединенного Королевства, ЕС, neg, current
+Дания, ЕС, pos, current
+Дэвид Кэмерон, ЕС, pos, current
+Европа, Россия, neg, current
+Европа, Путин, neg, current
+Евросоюз, Турция, pos, current
+Турция, Евросоюз, pos, current
+Дания, Великобритания, pos, past
+Евросоюз, Путин, neg, current
+Путин, Евросоюз, neg, current
+Ле Пен, Брюссель, neg, current=============================
+=============================
+=============================
+Германия, Россия, pos, current
+Россия, Запад, neg, current
+Запад, Россия, neg, current
+Германия, США, pos, current
+Штайнмайер, Росссия, pos, current
+Россия, Асад, pos, current
+Россия, Исламское государство, neg, current
+author, Япония, neg, current
+G7, Россия, neg, past
+Россия, Запад, neg, past
+Запад, Россия, neg, past
+Европейские государства, Россия, pos, current
+Хандельсблатт, G7, neg, current
+Россия, Асад, pos, current
+Россия, Исламское государство, neg, current
+Ближний Восток, Россия, pos, current
+Владимир Путин, G7, neg, current
+Россия, Запад, neg, past
+Запад, Россия, pos, current
+Россия, Запад, pos, current
+Россия, G7, neg, current=============================
+=============================
+=============================
+G7, Россия, neg, current
+Путин, G7, neg, current
+Путин, Большая семерка, neg, current
+Путин, США, neg, past
+Путин, ЕС, neg, past
+Путин, Александр Залдостанов, pos, current
+Александр Залдостанов, "Антимайдан", pos, current
+Ночные волки, Запад, neg, current
+Москва, Афины, pos, current
+Большая семерка, Россия, neg, current
+Лавров, G7, neg, current
+Михаэль Штюрмер, Америка, neg, current
+Украина, Москва, neg, current
+Украина, Путин, neg, current
+Евросоюз, Кремль, neg, current
+Запад, Иран, neg, current
+Михаэль Штюрмер, Америка, neg, current
+Deutsche Welle, Путин, neg, current
+Морре, Ночные волки, neg, current
+Кремль, Греция, pos, current
+Евросоюз, Греция, neg, current
+ЕС, Греция, neg, current
+=============================
+=============================
+=============================
+Хезболла, Асад, pos, current
+Хезболла, Тель-Авив, neg, current
+Али Лариджани (Ali Larijani), Россия, pos, current
+Али Хаменеи (Ayatollah Ali Khamenei), Лариджани, neg, current
+Али Хаменеи (Ayatollah Ali Khamenei), Лариджани, neg, current
+Али Хаменеи, Саид Джалили (Saeid Jalili), neg, current
+Асад, Хезболла, pos, current
+Нетаньяху, Хезболла, neg, current
+Египет, Израиль, pos, current
+Израиль, Хезболла, neg, current
+Израиль, Cаудовская Аравия, pos, current
+Израиль, Асад, neg, current
+Израиль, Египет, pos, current
+Израиль, Иордания, pos, current
+Израиль, Иран, neg, current
+Израиль, Москва, pos, current
+Израиль, Россия, pos, current
+Израиль, Саудовская Аравия, pos, current
+Иордания, Израиль, pos, current
+Иордания, Израиль, pos, current
+Иран, Асад, pos, current
+Иран, Израиль, neg, current
+Иран, Россия, pos, current
+Лариджани, Абдул Кадыр Хан (AQ Khan), neg, current
+Лариджани, Москва, pos, current
+Москва, Асад, pos, current
+Москва, Израиль, pos, current
+Москва, Тегеран, pos, current
+Моссат, Рухолла Мусави Хомейни (Ruhollah Khomeini), neg, past
+ООН, Иран, neg, past
+Россия, Асад, pos, current
+Россия, Израиль, pos, current
+Россия, Иран, pos, current
+Россия, ООН, pos, current
+Саудовская Аравия, Израиль, pos, current
+Саудовская Аравия, Иран, neg, current
+Тегеран, Асад, pos, current
+Тель-Авив, Хезболла, neg, current
+Хезболла, Асад, pos, current
+Хезболла, Тель-Авив, neg, current
+=============================
+=============================
+=============================
+author, Путин, pos, current
+Азербайджан, Армения, neg, current
+Армения, Азербайджан, neg, current
+Венеция, Константинополь, neg, past
+Запад, Владимир Путин, neg, current
+Константинополь, Венеция,  neg, past
+Путин, Азербайджан, neg, current
+Путин, Америка, neg, current
+Путин, Башар аль-Асад, pos, current
+Путин, ВМС, neg, current
+Путин, Грузия, neg, past
+Путин, Европа, neg, current
+Путин, Иран, pos, current
+Путин, Россия, pos, current
+Путин, НАТО, neg, current
+Путин, Соедминенные Штаты Америки, neg, current
+Путин, США, neg, current
+Путин, Украина, neg, past
+США, Иран, neg, current
+Израиль, Иран, neg, current
+=============================
+=============================
+=============================
+author, Путин, neg, current
+Асад, Россия, pos, current
+Гитлер, СССР, neg, past
+ЕС, Украина, pos, current
+НАТО, Турция, pos, current
+Путин, Асад, pos, current
+Россия, Асад, pos, current
+Россия, Турция, neg, current
+Россия, Украина, neg, current
+Сирия, Россия, pos, current
+СССР, Афганистан, neg, past
+СССР, Гитлер, neg, past
+Турция, НАТО, pos, current
+Турция, Россия, neg, current
+Турция, Турецкий поток, pos, past
+Украина, ЕС, pos, current
+=============================
+=============================
+=============================
+Россия, Асад, pos, current
+Путин, Запад, neg, current
+Глава Кремля, Башар Асад, pos, current
+Путин, Асад, pos, current
+Путин, Запад, neg, current
+author, Асад, neg, current
+Foreign Policy, Путин, neg, current
+Foreign Policy, Асад, neg, current
+Foreign Policy, Москва, neg, current=============================
+=============================
+=============================
+НАТО, Россия, neg, current
+Россия, НАТО, neg, current
+Россия, Турция, neg, current
+Турция, Россия, neg, current
+Грушко, Украина, neg, current
+НАТО, Москва, neg, current
+Москва, Украина, neg, current
+Грушко, Киев, neg, current
+НАТО, Москва, neg, current
+Столтенберг, Россия, neg, current
+
+=============================
+=============================
+=============================
+Россия, НАТО, neg, current
+НАТО, Россия, neg, current
+Турция, Россия, neg, current
+Германия, Россия, pos, current
+Франция, Россия, pos, current
+Польша, Россия, neg, current
+Путин, Украина, neg, current
+Прибалтийские государства, Россия, neg, current
+=============================
+=============================
+=============================
+автор, Россия, pos, current
+Америка, Великобритания, pos, past
+Америка, Советский Союз, pos, past
+Великобритания, Америка, pos, past
+Великобритания, Путин, neg, current
+Великобритания, Россия, neg, current
+Великобритания, Советский Союз, pos, past
+Великобритания, СССР, pos, past
+Великобритания, США, pos, past
+Великобритания, Эрдоган, pos, current
+ЕС, Путин, neg, current
+ЕС, Россия, neg, current
+ЕС, Турция, neg, current
+ЕС, Эрдоган, pos, current
+Запад, Россия, neg, current
+Керри, Россия, pos, current
+Меркель, Эрдоган, pos, current
+НАТО, Россия, neg, current
+Россия, Грузия, neg, past
+Россия, ЕС, neg, current
+Россия, ИГИЛ, neg, current
+Россия, Сирия, neg, current
+Россия, Совбез ООН, pos, past
+Россия, Турция, neg, current
+Россия, Украина, neg, past
+Советский Союз, Америка, pos, past
+Советский Союз, Великобритания, pos, past
+СССР, Великобритания, neg, past
+СССР, США, pos, past
+США, Великобритания, pos, past
+США, Россия, neg, current
+США, Россия, pos, current
+США, СССР, pos, past
+США, Эрдоган, pos, current
+Турция, ЕС, neg, current
+Турция, ИГИЛ, neg, current
+Турция, ИГИЛ, pos, current
+Турция, Россия, neg, current
+Филип Хэммонд, Россия, neg, current
+=============================
+=============================
+=============================
+Россия, Асад, pos, current
+Россия, Украина, neg, current
+США, Россия, neg, current
+автор, Россия, pos, current
+автор, Кремль, neg, current
+ЕС, Россия, neg, current
+Россия, ИГИЛ, neg, current
+Всемирное антидопинговое агенство, Россия, neg, current
+Алексей Пушков, Всемирное антидопинговое агенство, neg, current
+Россия, Вашингтон, neg, current
+Боффи,Россия,neg, current
+Боффи,Кремль,neg, current
+Боффи,Путин,neg, current=============================
+=============================
+=============================
+Путин, ЕС, neg, current
+ЕС, Путин, neg, current
+Великобритания, НАТО, pos, current
+Британия, ЕС, neg, current
+НАТО, Великобритания, pos, current
+Сплидбель, Путин, neg, current
+Сплидбель, ЕС, pos, current
+ЕС, Великобритания, pos, current=============================
+=============================
+=============================
+author, Порошенко, neg, current
+author, Россия, neg, current
+author, Янукович, neg, current
+author, Дугин, neg, current
+author, Запад, pos, current
+Александр Вучич, Запад, pos, current
+Александр Вучич, Милашевич, pos, past
+Александр Дугин, Дональд Трамп, pos, current
+Александр Дугин, Европа, neg, current
+Америка, Александр Вучич, pos, current
+Америка, Россия, neg, current
+Антоний Мачеревич, Россия, neg, current
+Байден, Юрий Луценко, pos, current
+Вашингтон, Груевский, pos, current
+Виктория Нуланд, Евросоюз, neg, current
+Виктория Нуланд, Украина, pos, current
+Восток, Запад, neg, current
+Восток, Запад, neg, current
+Германия, Россия, pos, past
+Джеффри Пайетт, Евросоюз, neg, current
+Джо Байден, Груевский, pos, current
+Джо Байден, Петр Порошенко, pos, current
+Евросоюз,"Закон и справедливость", neg, past
+ЕС, Плахотнюк, pos, current
+Запад, Восток, neg, current
+Запад, Джакунович, pos, past
+Запад, Россия, neg, current
+Касько, Шокин, neg, past
+Кремль, Донбасс, pos, current
+Кремль, Евромайдан, neg, current
+Кремль, США, neg, current
+Кремль, НАТО, neg, current
+Мачеревич, Россия, neg, current
+Милашевич, Александр Вучич, pos, past
+Милашевич, Мило Джуканович, pos, past
+Мило Джакунович, Милошевич, pos, past
+Молдавия, Европейский союз,  pos, current
+Молдавия, Евросоюз, pos, current
+Молдавия, ЕС, pos, current
+Москва, НАТО, neg, current
+Николае Тимофти, Влад Филат, neg, past
+Николае Тимофти, Павел Филип, pos, current
+Николае Тимофти, Плахотнюк, neg, current
+Нуланд, Украина, pos, current
+Пайетт, Украина, pos, current
+Пайетт, Юрий Луценко, pos, current
+Плахотнюк, Влад Филат, neg, current
+Плахотнюк, Павел Филип, pos, current
+Польша, Россия, neg, current
+Порошенко, Виктор Шокин, pos, current
+Порошенко, Юрий Луценко, pos, current
+Путин, Александр Дугин, pos, current
+Россия, Америка, neg, current
+Россия, Джуканович, neg, past
+Россия, Запад, neg, current
+Россия, Молдавия, neg, current
+Россия, Украина, neg, current
+США, ЕС, pos, current
+США, Петр Порошенко, pos, current
+США, Плахотнюк, pos, current
+США, Польша, pos, current
+США, Украина, pos, current
+США, Россия, neg, current
+Украина, Европейский союз,  pos, current
+Украина, Евросоюз, pos, current
+Украина, Россия, neg, current
+Филип Бридлав, Россия, neg, current
+Шокин, Касько, neg, past
+Юрий Луценко, Порошенко,  pos, current
+=============================
+=============================
+=============================
+author, Хрущев, neg, current
+author, Столтенберг, neg, current
+author, Бридлав, neg, current
+author, Штайнмайер, pos, current
+author, Тренин, pos, current
+author, Расмуссен, neg, current
+Запад, Россия, neg, current
+НАТО, Польша, pos, current
+НАТО, Россия, neg, current
+НАТО, Украина, pos, current
+НАТО, Черногория, pos, current
+Россия, НАТО, neg, current
+Соединенные Штаты, Украина, pos, past
+США, Украина, pos, current
+Штайнмайер, НАТО, neg, current
+Эштон Картер, Россия, neg, current
+Эстония, Кремль, neg, current
+Литва, Кремль, neg, current
+Латвия, Кремль, neg, current
+Польша, Кремль, neg, current=============================
+=============================
+=============================
+=============================
+=============================
+=============================
+=============================
+=============================
+=============================
+=============================
+=============================
+=============================
